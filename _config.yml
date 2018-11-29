@@ -15,7 +15,7 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
-url                      : "chrishham.github.io"
+url                      : "https://chrishham.github.io"
 baseurl                  : "/gr"
 repository               : "chrishham/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -73,7 +73,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mibook"
+  github           : "chrishham"
   gitlab           :
   google_plus      :
   keybase          :
